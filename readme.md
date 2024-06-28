@@ -1,6 +1,6 @@
 # HelloKitty Ransomware Source Code
 
-![HelloKitty Ransomware](./assets/HK.png)
+![HelloKitty Ransomware](./assets/HK.jpg)
 
 ## Ethical Disclaimer
 This project is for educational and research purposes only. Any misuse of the code for malicious purposes is strictly prohibited. The authors are not responsible for any damage caused by the misuse of this code.
