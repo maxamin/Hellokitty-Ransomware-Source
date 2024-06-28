@@ -55,7 +55,7 @@ Welcome to the HelloKitty ransomware source code repository. This project is ded
 
 # Donation:
 
-# [Binance_ID:271854090]
+[Binance_ID:271854090]
 
 Buy Me a Coffee: [Buy Me a Coffee](https://buymeacoffee.com/maxamin)
 
